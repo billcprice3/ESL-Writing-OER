@@ -1,4 +1,4 @@
-*Note: The purpose of this document is to be able to quickly bring a LLM up to speed on this project. I think it is useful to have a project goals & style document like this to enable you to quickly re-establish critical context when necessary.*
+*Note: The purpose of this document is to be able to quickly bring a LLM up to speed on this project. I think it is useful to have a project goals & style document like this to enable you to quickly re-establish critical context with a generative AI collaborator such as a large language model when necessary.*
 
 # OER Textbook Project Synopsis: Writing 5 for ESL Students
 

@@ -1,6 +1,6 @@
 # User
 
-*User first sent the [draft project synopsis](/../main/organizational_documents/Writing_Textbook_Project_Synopsis.md)*
+*User pasted the [draft project synopsis](/../main/organizational_documents/Writing_Textbook_Project_Synopsis.md) here*
 
 Today's context and task: 
 

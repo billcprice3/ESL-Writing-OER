@@ -1,5 +1,7 @@
 # User
 
+*User first sent the [draft project synopsis](/../../organizational_documents/Writing_Textbook_Project_Synopsis.md)
+
 Today's context and task: 
 
 PART ONE: I've been kicking around the concept of this project for awhile, but I'm experiencing some humbleness or trepidation about the execution. "Who am I to compile a writing textbook?"- that sort of thing. I've been teaching ESL writing courses for over a decade, and my own writing as a student was well received before that. I have my own set of opinions sculpted both by my own experiences and logic as well as by the writing paradigms I've encountered in various textbooks. There are expositions or pieces of advice in textbooks that I encounter and endorse approvingly; and there are others that I discard as unhelpful or even ludicrous. So I surely have my own intuitions and opinions in this field: yet, I feel a reflexive humbleness or impostor syndrome at codifying my approach. I am at a bit of a loss.

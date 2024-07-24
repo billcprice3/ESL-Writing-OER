@@ -1,4 +1,4 @@
-*This was an experiment to test out my [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) and see how an LLM would do at making a textbook unit.*
+*This is an experiment to test out my [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) and see how an LLM would do at making a textbook unit, especally with only general user input on what the unit should contain. I have submitted the same prompt to many different LLMs to get a sense of how they respond to a query of this type.*
 
 ---
 

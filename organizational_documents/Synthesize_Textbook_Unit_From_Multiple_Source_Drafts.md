@@ -11,4 +11,4 @@ Please follow these instructions one by one.
 3.  Perform a brief assessment of each LLM's output in turn.
 4.  Provide a table summarizing your findings, ranked from best to worst LLM response to the prompt.
 
-*User sent the 
+*User sent the [Writing Textbook Project Synopsis](Writing_Textbook_Project_Synopsis.md) and all five drafts from the [Generate Textbook Unit]

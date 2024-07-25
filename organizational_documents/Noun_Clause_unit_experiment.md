@@ -69,7 +69,7 @@ This OER textbook project aims to create a tailored, high-quality resource for E
 
 Write a textbook unit about noun clauses, including subject noun clauses; object noun clauses; possessive subject noun clauses; and possessive object noun clauses. Begin with a model text, a paragraph, that contains a variety of noun clauses. Follow it with some appropriate comprehension/discussion questions designed to draw attention to the target grammar. Follow that by a general explanation of noun clauses. Then, in turn, have sections explaining the four types of noun clause mentioned above, along with at least one appropriate exercise for each. 
 
-# Llama 3.1 70B
+# Llama 3.1 70B’s response 
 
 **Unit 7: Noun Clauses**
 

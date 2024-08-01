@@ -64,5 +64,3 @@ This project aims to create an Open Educational Resource (OER) textbook for Writ
 - Strictly follow APA 7th Edition citation style if you ever need to produce an in-text citation or reference list entry.
 
 This OER textbook project aims to create a tailored, high-quality resource for ESL writing students, leveraging the author's extensive teaching experience and the capabilities of AI tools, while maintaining a strong emphasis on human oversight and pedagogical expertise.
-
-## Your present task

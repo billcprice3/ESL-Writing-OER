@@ -417,3 +417,138 @@ References:
 (3) Lunsford, A. A., & Connors, R. J. (2015). The St. Martin's Handbook. Cengage Learning.
 
 Note: This chapter is a sample and has been created to demonstrate the writing style and content of an OER textbook.
+
+- - -
+
+# DeepSeek-V3 with DeepThink mode turned on
+
+- - -
+
+```markdown
+# Chapter 3: Basic Paragraph Structure Review  
+
+**Learning Objective:** By the end of this chapter, you will be able to:  
+- Identify and write clear topic sentences  
+- Develop effective supporting sentences  
+- Create strong concluding sentences  
+- Avoid common paragraph structure errors  
+
+---
+
+## What Makes a Good Paragraph?  
+A strong academic paragraph has three essential parts:  
+
+1. **Topic Sentence** (States the main idea)  
+2. **Supporting Sentences** (Explain/prove the main idea)  
+3. **Concluding Sentence** (Summarizes or connects ideas)  
+
+![Paragraph Structure Diagram: Topic sentence at top, 3 supporting sentences in middle, conclusion at bottom]  
+
+---
+
+## Part 1: Topic Sentences  
+
+### Key Features  
+Every good topic sentence has:  
+- A **topic** (what you're writing about)  
+- A **controlling idea** (your specific focus/opinion)  
+
+**Example 1**  
+"Regular exercise (topic) provides three key health benefits (controlling idea)."  
+
+**Example 2**  
+"Learning English (topic) requires consistent daily practice (controlling idea)."  
+
+### Common Errors to Avoid  
+🚫 Too broad: "This paragraph will discuss coffee."  
+✅ Improved: "Coffee consumption affects sleep patterns in three ways."  
+
+🚫 Multiple ideas: "Dogs make good pets and need daily walks."  
+✅ Improved: "Dog ownership teaches responsibility through daily care routines."  
+
+---
+
+## Part 2: Supporting Sentences  
+
+### What They Do:  
+- Explain the topic sentence  
+- Give examples/facts/quotations  
+- Show logical connections  
+
+**Example Paragraph** (Supporting Sentences Highlighted):  
+> **[Topic Sentence]** Public transportation reduces urban traffic problems. **[Support 1]** First, buses and trains carry many people in one vehicle. **[Support 2]** For example, one subway train can transport 1,500 passengers during rush hour. **[Support 3]** This efficiency means fewer private cars on roads.  
+
+### Types of Support:  
+1. Facts/Statistics: "65% of commuters use trains daily in Tokyo."  
+2. Examples: "Many European cities like Amsterdam have excellent bike lanes."  
+3. Explanations: "Car pooling reduces emissions because..."  
+
+---
+
+## Part 3: Concluding Sentences  
+
+### Three Effective Strategies:  
+1. **Restate** the main idea differently  
+   "These examples show how exercise improves mental health."  
+
+2. **Connect** to the next paragraph  
+   "Understanding traffic solutions helps us examine pollution policies."  
+
+3. **Suggest action/importance**  
+   "Students should practice daily to master these writing skills."  
+
+**Weak Conclusion** ❌  
+"This is why dogs are good pets."  
+
+**Strong Conclusion** ✅  
+"Through companionship and security, dogs demonstrate why they're valued family members."  
+
+---
+
+## Full Paragraph Example  
+
+**Topic:** Online Learning  
+**Controlling Idea:** Three major advantages  
+
+> **[Topic Sentence]** Online education offers significant benefits for adult learners. **[Support 1]** First, it allows flexible scheduling around work and family commitments. **[Support 2]** For instance, a 2022 study found 78% of online students complete coursework during non-traditional hours. **[Support 3]** Additionally, digital platforms enable students to review materials multiple times. **[Conclusion]** These features make online learning a practical choice for those balancing multiple responsibilities.  
+
+---
+
+## Practice Exercises  
+
+### Exercise 1: Identify Components  
+Read this paragraph and label:  
+1. Topic sentence  
+2. Three supporting sentences  
+3. Concluding sentence  
+
+"Urban gardens provide fresh food while reducing environmental impact. They give residents access to vegetables grown without pesticides. Community plots also create green spaces that absorb carbon dioxide. Furthermore, local gardens eliminate transportation needs from distant farms. These benefits make urban gardening a valuable sustainability practice."  
+
+### Exercise 2: Write Your Paragraph  
+Use this topic sentence to build a full paragraph:  
+"Learning a second language improves cognitive abilities in three ways."  
+
+**Steps:**  
+1. Write 3 supporting sentences (one fact, one example, one explanation)  
+2. Add a concluding sentence using Strategy 2 (connection)  
+3. Check for unity - all sentences must relate to the topic sentence  
+
+---
+
+## Common Errors Checklist  
+
+Before submitting any paragraph, ask:  
+✓ Does my topic sentence have both a topic AND controlling idea?  
+✓ Do all supporting sentences directly relate to the main idea?  
+✓ Does my conclusion add value (not just repeat)?  
+✓ Are there any off-topic sentences?  
+
+```  
+
+This chapter follows the required guidelines by:  
+1. Using direct address ("you") and simple language  
+2. Breaking concepts into numbered/bulleted lists  
+3. Providing formulaic examples showing clear structure  
+4. Including scaffolded exercises with explicit instructions  
+5. Maintaining focus on core paragraph elements rather than advanced style  
+6. Adhering to thesis/topic sentence conventions taught in the course

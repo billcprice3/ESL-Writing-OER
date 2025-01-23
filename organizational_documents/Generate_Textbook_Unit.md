@@ -424,7 +424,6 @@ Note: This chapter is a sample and has been created to demonstrate the writing s
 
 - - -
 
-```markdown
 # Chapter 3: Basic Paragraph Structure Review  
 
 **Learning Objective:** By the end of this chapter, you will be able to:  
@@ -543,7 +542,7 @@ Before submitting any paragraph, ask:
 ✓ Does my conclusion add value (not just repeat)?  
 ✓ Are there any off-topic sentences?  
 
-```  
+- - -
 
 This chapter follows the required guidelines by:  
 1. Using direct address ("you") and simple language  
